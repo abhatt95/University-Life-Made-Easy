@@ -1,2 +1,2 @@
 # University-Life-Made-Easy
-  ##  [Demo](https://www.youtube.com/watch?v=ZFA9ha0EsI4)
+  ##  [Demo video](https://www.youtube.com/watch?v=ZFA9ha0EsI4)
